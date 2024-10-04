@@ -6,7 +6,7 @@
 /*   By: mrosset <marvin@42lausanne.ch>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/04 14:12:16 by mrosset           #+#    #+#             */
-/*   Updated: 2024/09/08 10:09:17 by mrosset          ###   ########.fr       */
+/*   Updated: 2024/09/08 19:00:26 by mrosset          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 int	ft_iterative_power(int nb, int power)
